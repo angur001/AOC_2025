@@ -16,6 +16,7 @@ switch (day)
     case "4": day4.Run(); break;
     case "5": day5.Run(); break;
     case "6": day6.Run(); break;
+    case "7": day7.Run(); break;
     default:
         Console.WriteLine($"Unknown day {day}");
         break;
