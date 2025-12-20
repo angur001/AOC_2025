@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 
 namespace aoc_25.days
 {
-    public class day2
+    public class day2 : abstractDay
     {
         static IDictionary<int, int[]> divisors = new Dictionary<int, int[]>
     {

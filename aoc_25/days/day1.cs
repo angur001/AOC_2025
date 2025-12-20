@@ -1,6 +1,6 @@
 namespace aoc_25.days
 {
-    public class day1
+    public class day1 : abstractDay
     {
         private static void part1()
         {

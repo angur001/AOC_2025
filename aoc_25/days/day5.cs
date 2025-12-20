@@ -4,7 +4,7 @@ using System.Diagnostics.Contracts;
 
 namespace aoc_25.days
 {
-    public class day5
+    public class day5 : abstractDay
     {
         public static void Run()
         {

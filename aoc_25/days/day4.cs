@@ -4,7 +4,7 @@ using System.Reflection.Metadata;
 
 namespace aoc_25.days
 {
-    public class day4
+    public class day4 : abstractDay
     {
         public static void Run()
         {

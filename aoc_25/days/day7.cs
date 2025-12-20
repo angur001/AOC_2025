@@ -2,7 +2,7 @@ using System.Security;
 
 namespace aoc_25.days
 {
-    public class day7
+    public class day7 : abstractDay
     {
         public static void Run()
         {
